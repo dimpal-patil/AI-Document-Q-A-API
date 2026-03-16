@@ -179,17 +179,7 @@ ai-doc-qa/
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] pgvector extension for native vector search (replace cosine similarity in Python)
-- [ ] Celery + Redis for async document processing queue
-- [ ] Support for scanned PDFs via OCR (Tesseract)
-- [ ] Streaming responses via Server-Sent Events
-- [ ] Rate limiting per user
-
----
-
 ## 👤 Author
 
 **Dimpal Patil** — Python Backend Developer  
-[LinkedIn](https://www.linkedin.com/in/dimpal-patil-37b9452a1/) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/dimpal-patil-37b9452a1/) • [GitHub](https://github.com/dimpal-patil)
