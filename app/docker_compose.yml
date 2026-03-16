@@ -9,7 +9,7 @@ services:
       - DATABASE_URL=postgresql://docqa:docqa@db:5432/docqa
       - REDIS_URL=redis://redis:6379
       - OPENAI_API_KEY=${OPENAI_API_KEY}
-      - SECRET_KEY=${SECRET_KEY:-changeme-use-a-real-secret-in-prod}
+ 
     depends_on:
       db:
         condition: service_healthy
