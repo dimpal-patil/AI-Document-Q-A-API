@@ -182,4 +182,4 @@ ai-doc-qa/
 ## 👤 Author
 
 **Dimpal Patil** — Python Backend Developer  
-[LinkedIn](https://www.linkedin.com/in/dimpal-patil-37b9452a1/) • [GitHub](https://github.com/dimpal-patil)
+ • [GitHub](https://github.com/dimpal-patil)
